@@ -1,5 +1,6 @@
 # hello-world
-Just another repository
 
 Hi Meredith!
-Here is Meredith.I like code.I want to change myself to improve programming.
+
+Meredith-JM here,I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos. 
